@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 4, 2013, 4:02:40 PM
+    Author     : Hassan
+*/
+body{
+    width: 1000px
+}
+section{
+    display:inline-block;
+    float:left;
+}
+#calendar-view-section{
+    width: 700px
+}
+#course-list-section{
+    width: 300px;
+    background-color: rgb(240,240,240);
+}
+
+#course-list{
+    height:600px;
+    overflow: auto;
+}
+
+#calendar-list ul{
+    list-style: none;
+}
+
+#calendar-list ul li{
+    /*float: left;*/
+    width: 100px;
+    padding:5px;
+}
+
+#calendar-list ul li input[type=button]{
+    float:right;
+}
+
+#calendar, #calendar iframe{
+    width:800px;
+    height:600px;
+}
+
+
+ul{
+    list-style:none;
+    padding:0;
+}
+
+#course-list ul li{
+    padding:5px;
+    border-bottom: 1px solid #fff;
+}
+
+#course-list ul li:hover{
+    background-color:#ccc;
+    border: 1px solid #fff;
+}

@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Courses>
+	<Course>
+		<UID>10</UID>
+		<CourseCCN>41520</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 98</CourseCode>
+		<CourseShortCode>Info 98</CourseShortCode>
+		<CourseDepartmentalCode>i98</CourseDepartmentalCode>
+		<CourseTitle>The Politics of Digital Piracy </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>2</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41520</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Paul Duguid ,Angelica Tavella ,Rodrigo Ochigame</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>WE</Day>
+							<StartTime>17:00</StartTime>
+							<EndTime>18:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>Barrows</Building>
+							<Room>54</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Paul Duguid ,Angelica Tavella ,Rodrigo Ochigame</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>11</UID>
+		<CourseCCN>41800</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 198</CourseCode>
+		<CourseShortCode>Info 198</CourseShortCode>
+		<CourseDepartmentalCode>i198</CourseDepartmentalCode>
+		<CourseTitle>The Politics of Digital Piracy </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>2</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41800</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Paul Duguid ,Angelica Tavella,Rodrigo Ochigame</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>WE</Day>
+							<StartTime>17:00</StartTime>
+							<EndTime>18:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>Barrows</Building>
+							<Room>54</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Paul Duguid ,Angelica Tavella,Rodrigo Ochigame</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>12</UID>
+		<CourseCCN>41578</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 202</CourseCode>
+		<CourseShortCode>Info 202</CourseShortCode>
+		<CourseDepartmentalCode>i202</CourseDepartmentalCode>
+		<CourseTitle>Information Organization and Retrieval </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41578</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Robert Glushko</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day><Day>TH</Day>
+							<StartTime>9:00</StartTime>
+							<EndTime>10:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Robert Glushko</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>13</UID>
+		<CourseCCN>41599</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 206</CourseCode>
+		<CourseShortCode>Info 206</CourseShortCode>
+		<CourseDepartmentalCode>i206</CourseDepartmentalCode>
+		<CourseTitle>Distributed Computing Applications and Infrastructure </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41599</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>John Chuang</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day><Day>WE</Day>
+							<StartTime>10:30</StartTime>
+							<EndTime>12:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>John Chuang</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>14</UID>
+		<CourseCCN>41605</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 213</CourseCode>
+		<CourseShortCode>Info 213</CourseShortCode>
+		<CourseDepartmentalCode>i213</CourseDepartmentalCode>
+		<CourseTitle>User Interface Design and Development </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41605</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Tapan Parikh</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day><Day>TH</Day>
+							<StartTime>11:00</StartTime>
+							<EndTime>12:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Tapan Parikh</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>15</UID>
+		<CourseCCN>41608</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 219</CourseCode>
+		<CourseShortCode>Info 219</CourseShortCode>
+		<CourseDepartmentalCode>i219</CourseDepartmentalCode>
+		<CourseTitle>Privacy, Security, and Cryptography </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41608</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Doug Tygar</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day><Day>TH</Day>
+							<StartTime>14:00</StartTime>
+							<EndTime>15:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>205</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Doug Tygar</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>16</UID>
+		<CourseCCN>41611</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 237</CourseCode>
+		<CourseShortCode>Info 237</CourseShortCode>
+		<CourseDepartmentalCode>i237</CourseDepartmentalCode>
+		<CourseTitle>Intellectual Property Law for the Information Industries </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41611</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Brian Carver</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day><Day>WE</Day>
+							<StartTime>10:30</StartTime>
+							<EndTime>12:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>205</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Brian Carver</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>17</UID>
+		<CourseCCN>41613</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 242</CourseCode>
+		<CourseShortCode>Info 242</CourseShortCode>
+		<CourseDepartmentalCode>i242</CourseDepartmentalCode>
+		<CourseTitle>XML Foundations </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41613</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Erik Wilde</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day><Day>WE</Day>
+							<StartTime>14:00</StartTime>
+							<EndTime>15:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>202</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Erik Wilde</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>18</UID>
+		<CourseCCN>41614</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 253</CourseCode>
+		<CourseShortCode>Info 253</CourseShortCode>
+		<CourseDepartmentalCode>i253</CourseDepartmentalCode>
+		<CourseTitle>Web Architecture </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41614</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Jim Blomo</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>FR</Day>
+							<StartTime>14:00</StartTime>
+							<EndTime>17:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Jim Blomo</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>19</UID>
+		<CourseCCN>41616</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 256</CourseCode>
+		<CourseShortCode>Info 256</CourseShortCode>
+		<CourseDepartmentalCode>i256</CourseDepartmentalCode>
+		<CourseTitle>Applied Natural Language Processing </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41616</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Marti Hearst</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day><Day>WE</Day>
+							<StartTime>9:30</StartTime>
+							<EndTime>11:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>202</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Marti Hearst</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>20</UID>
+		<CourseCCN>41617</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 257</CourseCode>
+		<CourseShortCode>Info 257</CourseShortCode>
+		<CourseDepartmentalCode>i257</CourseDepartmentalCode>
+		<CourseTitle>Database Management </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41617</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Ray Larson</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day><Day>TH</Day>
+							<StartTime>12:3</StartTime>
+							<EndTime>14:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Ray Larson</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>21</UID>
+		<CourseCCN>41620</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION C262</CourseCode>
+		<CourseShortCode>Info C262</CourseShortCode>
+		<CourseDepartmentalCode>iC262</CourseDepartmentalCode>
+		<CourseTitle>Theory and Practice of Tangible User Interfaces </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41620</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Kimiko Ryokai</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day><Day>WE</Day>
+							<StartTime>14:00</StartTime>
+							<EndTime>15:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Kimiko Ryokai</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>22</UID>
+		<CourseCCN>41623</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 271B</CourseCode>
+		<CourseShortCode>Info 271B</CourseShortCode>
+		<CourseDepartmentalCode>i271B</CourseDepartmentalCode>
+		<CourseTitle>Quantitative Research Methods for Information Systems and Management </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41623</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Paul Laskowski</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day><Day>TH</Day>
+							<StartTime>15:30</StartTime>
+							<EndTime>17:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Paul Laskowski</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>23</UID>
+		<CourseCCN>41626</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290</CourseCode>
+		<CourseShortCode>Info 290</CourseShortCode>
+		<CourseDepartmentalCode>i290</CourseDepartmentalCode>
+		<CourseTitle>Multimedia Narrative </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41626</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Nancy Van House</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day><Day>TH</Day>
+							<StartTime>11:00</StartTime>
+							<EndTime>12:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>205</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Nancy Van House</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>24</UID>
+		<CourseCCN>41635</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290</CourseCode>
+		<CourseShortCode>Info 290</CourseShortCode>
+		<CourseDepartmentalCode>i290</CourseDepartmentalCode>
+		<CourseTitle>The Future of E-books </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>1-2</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41635</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Robert Glushko,Scott Abel</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day>
+							<StartTime>15:30</StartTime>
+							<EndTime>17:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>205</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Robert Glushko,Scott Abel</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>25</UID>
+		<CourseCCN>41638</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290</CourseCode>
+		<CourseShortCode>Info 290</CourseShortCode>
+		<CourseDepartmentalCode>i290</CourseDepartmentalCode>
+		<CourseTitle>Applied Behavioral Economics for Information Systems </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41638</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Steven Weber</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day><Day>TH</Day>
+							<StartTime>14:00</StartTime>
+							<EndTime>15:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Steven Weber</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>26</UID>
+		<CourseCCN>41641</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290</CourseCode>
+		<CourseShortCode>Info 290</CourseShortCode>
+		<CourseDepartmentalCode>i290</CourseDepartmentalCode>
+		<CourseTitle>ICTD Research Seminar </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>1</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41641</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>San Ng,Tapan Parikh</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>WE</Day>
+							<StartTime>11:00</StartTime>
+							<EndTime>12:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>107</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>San Ng,Tapan Parikh</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>27</UID>
+		<CourseCCN>41644</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290A</CourseCode>
+		<CourseShortCode>Info 290A</CourseShortCode>
+		<CourseDepartmentalCode>i290A</CourseDepartmentalCode>
+		<CourseTitle>Information Technology and Identity: The Future of Storytelling</CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>1</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-09-09</CourseStartDate>
+		<CourseEndDate>2013-10-07</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41644</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Quentin Hardy</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day>
+							<StartTime>15:30</StartTime>
+							<EndTime>18:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Quentin Hardy</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>28</UID>
+		<CourseCCN>41647</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290A</CourseCode>
+		<CourseShortCode>Info 290A</CourseShortCode>
+		<CourseDepartmentalCode>i290A</CourseDepartmentalCode>
+		<CourseTitle>Finding Health in the US: Health Care and the Information Economy </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>1</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-09-06</CourseStartDate>
+		<CourseEndDate>2013-10-25</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41647</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Scott Young,Sean Hennessey</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>FR</Day>
+							<StartTime>13:00</StartTime>
+							<EndTime>15:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>202</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Scott Young,Sean Hennessey</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>29</UID>
+		<CourseCCN>41650</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290A</CourseCode>
+		<CourseShortCode>Info 290A</CourseShortCode>
+		<CourseDepartmentalCode>i290A</CourseDepartmentalCode>
+		<CourseTitle>Social Data Revolution </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>1</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-10-29</CourseStartDate>
+		<CourseEndDate>2013-11-26</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41650</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Andreas Weigend</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day>
+							<StartTime>15:30</StartTime>
+							<EndTime>18:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>202</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Andreas Weigend</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>30</UID>
+		<CourseCCN>41653</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290A</CourseCode>
+		<CourseShortCode>Info 290A</CourseShortCode>
+		<CourseDepartmentalCode>i290A</CourseDepartmentalCode>
+		<CourseTitle>What Theory Matters </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>1</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-10-29</CourseStartDate>
+		<CourseEndDate>2013-12-03</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41653</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>,Jean Lave,Paul Duguid</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day>
+							<StartTime>15:30</StartTime>
+							<EndTime>18:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>107</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>,Jean Lave,Paul Duguid</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>31</UID>
+		<CourseCCN>41655</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290M</CourseCode>
+		<CourseShortCode>Info 290M</CourseShortCode>
+		<CourseDepartmentalCode>i290M</CourseDepartmentalCode>
+		<CourseTitle>Open Collaboration and Peer Production </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41655</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>,John Chuang,Sebastian Benthall,Thomas Maillart</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>FR</Day>
+							<StartTime>11:00</StartTime>
+							<EndTime>13:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>,John Chuang,Sebastian Benthall,Thomas Maillart</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>32</UID>
+		<CourseCCN>41656</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290MA</CourseCode>
+		<CourseShortCode>Info 290MA</CourseShortCode>
+		<CourseDepartmentalCode>i290MA</CourseDepartmentalCode>
+		<CourseTitle>Effective Project Management </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>2</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41656</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Anne Walker</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TH</Day>
+							<StartTime>17:30</StartTime>
+							<EndTime>19:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Anne Walker</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>33</UID>
+		<CourseCCN>41659</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 290TA</CourseCode>
+		<CourseShortCode>Info 290TA</CourseShortCode>
+		<CourseDepartmentalCode>i290TA</CourseDepartmentalCode>
+		<CourseTitle>Information Organization Laboratory </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41659</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Kate Rushton,Raymon Sutedjo-The,Robert Glushko</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day><Day>WE</Day>
+							<StartTime>12;30</StartTime>
+							<EndTime>14:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>210</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Kate Rushton,Raymon Sutedjo-The,Robert Glushko</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>34</UID>
+		<CourseCCN>41665</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 295</CourseCode>
+		<CourseShortCode>Info 295</CourseShortCode>
+		<CourseDepartmentalCode>i295</CourseDepartmentalCode>
+		<CourseTitle>Doctoral Colloquium </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>1</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41665</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Paul Duguid</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day>
+							<StartTime>12:30</StartTime>
+							<EndTime>14:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>205</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Paul Duguid</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>35</UID>
+		<CourseCCN>41668</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 296A</CourseCode>
+		<CourseShortCode>Info 296A</CourseShortCode>
+		<CourseDepartmentalCode>i296A</CourseDepartmentalCode>
+		<CourseTitle>Information Access </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41668</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Clifford Lynch,Michael Buckland,Ray Larson</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>FR</Day>
+							<StartTime>15:00</StartTime>
+							<EndTime>17:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>107</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Clifford Lynch,Michael Buckland,Ray Larson</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>36</UID>
+		<CourseCCN>41671</CourseCCN>
+		<CourseSemester>Fall 2013</CourseSemester>
+		<CourseCode>INFORMATION 296A</CourseCode>
+		<CourseShortCode>Info 296A</CourseShortCode>
+		<CourseDepartmentalCode>i296A</CourseDepartmentalCode>
+		<CourseTitle>The Federal Trade Commission and Online Privacy </CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Information</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-08-28</CourseStartDate>
+		<CourseEndDate>2013-12-17</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>41671</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Deirdre Mulligan</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day>
+							<StartTime>14:00</StartTime>
+							<EndTime>17:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>South Hall</Building>
+							<Room>107</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Deirdre Mulligan</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>37</UID>
+		<CourseCCN>25003</CourseCCN>
+		<CourseSemester>Spring 2013</CourseSemester>
+		<CourseCode>EE20</CourseCode>
+		<CourseShortCode>EE20</CourseShortCode>
+		<CourseDepartmentalCode>EE20</CourseDepartmentalCode>
+		<CourseTitle>Structure and Interpretation of Systems and Signals</CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Electrical Engineering and Computer Science</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-01-14</CourseStartDate>
+		<CourseEndDate>2013-05-16</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>25003</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Ayazifar</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day><Day>TH</Day>
+							<StartTime>12:30</StartTime>
+							<EndTime>14:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>Stanley</Building>
+							<Room>105</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Ayazifar</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>38</UID>
+		<CourseCCN>25051</CourseCCN>
+		<CourseSemester>Spring 2014</CourseSemester>
+		<CourseCode>EE40</CourseCode>
+		<CourseShortCode>EE40</CourseShortCode>
+		<CourseDepartmentalCode>EE40</CourseDepartmentalCode>
+		<CourseTitle>Introduction to Microelectronic Circuits</CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Electrical Engineering and Computer Science</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-01-14</CourseStartDate>
+		<CourseEndDate>2013-05-16</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>25051</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Maharbiz</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day><Day>WE</Day><Day>FR</Day>
+							<StartTime>10:00</StartTime>
+							<EndTime>11:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>Wheeler</Building>
+							<Room>Auditorium</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Maharbiz</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>39</UID>
+		<CourseCCN>25111</CourseCCN>
+		<CourseSemester>Spring 2015</CourseSemester>
+		<CourseCode>EE105</CourseCode>
+		<CourseShortCode>EE105</CourseShortCode>
+		<CourseDepartmentalCode>EE105</CourseDepartmentalCode>
+		<CourseTitle>Microelectronic Devices and Circuits</CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Electrical Engineering and Computer Science</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-01-14</CourseStartDate>
+		<CourseEndDate>2013-05-16</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>25111</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Allstot</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day><Day>WE</Day><Day>FR</Day>
+							<StartTime>13:00</StartTime>
+							<EndTime>14:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>GSPP</Building>
+							<Room>150</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Allstot</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>40</UID>
+		<CourseCCN>25129</CourseCCN>
+		<CourseSemester>Spring 2016</CourseSemester>
+		<CourseCode>EE117</CourseCode>
+		<CourseShortCode>EE117</CourseShortCode>
+		<CourseDepartmentalCode>EE117</CourseDepartmentalCode>
+		<CourseTitle>Electromagnetic Fields and Waves</CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Electrical Engineering and Computer Science</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-01-14</CourseStartDate>
+		<CourseEndDate>2013-05-16</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>25129</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Chang-Hasnain</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day><Day>WE</Day><Day>FR</Day>
+							<StartTime>16:00</StartTime>
+							<EndTime>17:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>Cory</Building>
+							<Room>299</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Chang-Hasnain</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>41</UID>
+		<CourseCCN>25138</CourseCCN>
+		<CourseSemester>Spring 2017</CourseSemester>
+		<CourseCode>EE118</CourseCode>
+		<CourseShortCode>EE118</CourseShortCode>
+		<CourseDepartmentalCode>EE118</CourseDepartmentalCode>
+		<CourseTitle>Introduction to Optical Engineering</CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Electrical Engineering and Computer Science</Department>
+		<Units>3</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-01-14</CourseStartDate>
+		<CourseEndDate>2013-05-16</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>25138</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Waller</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>WE</Day><Day>FR</Day>
+							<StartTime>13:00</StartTime>
+							<EndTime>14:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>Cory</Building>
+							<Room>521</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Waller</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>42</UID>
+		<CourseCCN>25156</CourseCCN>
+		<CourseSemester>Spring 2018</CourseSemester>
+		<CourseCode>EE122</CourseCode>
+		<CourseShortCode>EE122</CourseShortCode>
+		<CourseDepartmentalCode>EE122</CourseDepartmentalCode>
+		<CourseTitle>Introduction to Communication Networks</CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Electrical Engineering and Computer Science</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-01-14</CourseStartDate>
+		<CourseEndDate>2013-05-16</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>25156</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Parekh</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day><Day>TH</Day>
+							<StartTime>17:00</StartTime>
+							<EndTime>18:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>Etcheverry</Building>
+							<Room>3106</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Parekh</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>43</UID>
+		<CourseCCN>25165</CourseCCN>
+		<CourseSemester>Spring 2019</CourseSemester>
+		<CourseCode>EE123</CourseCode>
+		<CourseShortCode>EE123</CourseShortCode>
+		<CourseDepartmentalCode>EE123</CourseDepartmentalCode>
+		<CourseTitle>Digital Signal Processing</CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Electrical Engineering and Computer Science</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-01-14</CourseStartDate>
+		<CourseEndDate>2013-05-16</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>25165</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Lustig</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>MO</Day><Day>WE</Day><Day>FR</Day>
+							<StartTime>15:00</StartTime>
+							<EndTime>16:00</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>Cory</Building>
+							<Room>521</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Lustig</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+	<Course>
+		<UID>44</UID>
+		<CourseCCN>25237</CourseCCN>
+		<CourseSemester>Spring 2020</CourseSemester>
+		<CourseCode>EE143</CourseCode>
+		<CourseShortCode>EE143</CourseShortCode>
+		<CourseDepartmentalCode>EE143</CourseDepartmentalCode>
+		<CourseTitle>Microfabrication Technology</CourseTitle>
+		<CourseAlternariveTitles/>
+		<CourseDescriptions>
+			<GeneralCatalog/>
+		</CourseDescriptions>
+		<Department>School of Electrical Engineering and Computer Science</Department>
+		<Units>4</Units>
+		<CourseFormat>
+			<CourseFormatOption>
+				<CourseHours>3</CourseHours>
+				<CourseFormatType>Lecture</CourseFormatType>
+				<CourseFormatFrequency>Weekly</CourseFormatFrequency>
+			</CourseFormatOption>
+		</CourseFormat>
+		<CourseStartDate>2013-01-14</CourseStartDate>
+		<CourseEndDate>2013-05-16</CourseEndDate>
+		<Sections>
+			<Section>
+				<SectionTitle>Lecture 001</SectionTitle>
+				<SectionCode>Lecture 001</SectionCode>
+				<SectionShortCode>LEC 01</SectionShortCode>
+				<SectionCCN>25237</SectionCCN>
+				<SectionType>Lecture</SectionType>
+				<SectionInstructor>Javey</SectionInstructor>
+				<SectionSchedule>
+					<SectionScheduleEntry>
+						<ScheduledTime>
+							<Day>TU</Day><Day>TH</Day>
+							<StartTime>11:00</StartTime>
+							<EndTime>12:30</EndTime>
+							<Frequency>Weekly</Frequency>
+						</ScheduledTime>
+						<ScheduledLocation>
+							<Building>Cory</Building>
+							<Room>289</Room>
+						</ScheduledLocation>
+					</SectionScheduleEntry>
+				</SectionSchedule>
+			</Section>
+		</Sections>
+		<Instructors>
+			<Instructor>
+				<InstructorName>Javey</InstructorName>
+				<InstructorType>Lecturer</InstructorType>
+			</Instructor>
+		</Instructors>
+	</Course>
+</Courses>

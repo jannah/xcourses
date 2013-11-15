@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>xCourses</title>
+        <link href='http://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="_css/style.css" />
+        <script type="text/javascript" src="_js/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript" src="_js/script.js"></script>
+        <script type="text/javascript" src="_js/gcal.js"></script>
+        <script src="https://apis.google.com/js/client.js?onload=handleClientLoad"></script>
+        <!--<meta charset="windows-1252">-->
+        <!--<meta name="viewport" content="width=device-width">-->
+    </head>
+    <body>
+
+        <header>
+            <a href='#' id='authorize-button' onclick='handleAuthClick();'>Login</a>
+        </header>
+        <section id="course-list-section">
+
+            <div id="course-list">
+                <ul>
+                </ul>
+            </div>
+        </section>
+        <section id="events-section">
+            <div><ul id="events"></ul></div>
+        </section>
+        <section id="calendar-view-section">
+            <div id="calendar-view-wrappter">
+                <div id="calendar-list">
+                    <ul></ul>
+                </div>
+                <div id="calendar">
+
+                </div>
+            </div>
+        </section>
+
+    </body>
+</html>
